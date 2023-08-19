@@ -52,3 +52,8 @@ How to implement Q&A against your documentation with GPT3, embeddings and Datase
 https://simonwillison.net/2023/Jan/13/semantic-search-answers/
 
 ###### PGVECTOR
+
+###### RAG
+
+- [Original RAG paper. ](https://arxiv.org/pdf/2005.11401.pdf)
+- [Simplified explanation](https://medium.com/@amodwrites/understanding-retrieval-augmented-generation-a-simple-guide-d638ac92c123)
